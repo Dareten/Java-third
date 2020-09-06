@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public class JFrame extends javax.swing.JFrame {
     JButton milan = new JButton("AC Milan");

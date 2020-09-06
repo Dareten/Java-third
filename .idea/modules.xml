@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-third.iml" filepath="$PROJECT_DIR$/.idea/Java-third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Java/Laba1/Laba1.iml" filepath="$PROJECT_DIR$/Practice Java/Laba1/Laba1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs Java/Laba1/Laba11.iml" filepath="$PROJECT_DIR$/Labs Java/Laba1/Laba11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Java/Laba2/Laba2.iml" filepath="$PROJECT_DIR$/Practice Java/Laba2/Laba2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs Java/Laba2/Laba21.iml" filepath="$PROJECT_DIR$/Labs Java/Laba2/Laba21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Java/Laba3/Laba3.iml" filepath="$PROJECT_DIR$/Practice Java/Laba3/Laba3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs Java/Laba3/Laba31.iml" filepath="$PROJECT_DIR$/Labs Java/Laba3/Laba31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Java/Laba4/Laba4.iml" filepath="$PROJECT_DIR$/Practice Java/Laba4/Laba4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Java/Laba5/Laba5.iml" filepath="$PROJECT_DIR$/Practice Java/Laba5/Laba5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice Java/Laba7/Laba7.iml" filepath="$PROJECT_DIR$/Practice Java/Laba7/Laba7.iml" />
+    </modules>
+  </component>
+</project>
