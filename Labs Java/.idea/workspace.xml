@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4882dfc-0820-422a-8d2f-b7e583d0d169" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Java-third.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba1/Laba11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba2/Laba21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/Laba31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/src/Carlino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/src/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba3/src/Pembroke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba1/Laba1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba2/Laba2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba3/Laba3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laba3/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Laba3/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice Java/Laba1/Laba1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice Java/Laba1/Laba1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice Java/Laba2/Laba2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice Java/Laba2/Laba2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice Java/Laba3/Laba3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice Java/Laba3/Laba3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice Java/Laba4/Laba4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice Java/Laba4/Laba4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="5bdfe3a3-6dd8-44b9-9a13-4a2300e6d575" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1h2vWkCMFe2qX6A5hSDh5P3pp9L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4882dfc-0820-422a-8d2f-b7e583d0d169" name="Default Changelist" comment="" />
+      <created>1599222038696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599222038696</updated>
+      <workItem from="1599222040551" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="82" key="FileChooserDialogImpl" timestamp="1599222265133">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599222265133" />
+    <state x="233" y="0" key="new project wizard" timestamp="1599222275091">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1599222275091" />
+  </component>
+</project>
